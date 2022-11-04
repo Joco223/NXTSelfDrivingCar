@@ -28,6 +28,7 @@
 {
   "user": {
       "unique_id": "<user unique_id>",
+      "role": "<user role>",
       "username": "<your username>",
       "password": "<your password>",
       "email": "<your email>",
